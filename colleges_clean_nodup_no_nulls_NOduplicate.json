@@ -1,0 +1,3160 @@
+[
+  {
+    "id": "SRM-AND",
+    "name": "SRM AP Amaravati",
+    "category": "DEEMED",
+    "state": "Andhra Pradesh",
+    "city": "Amaravati",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://srmap.edu.in/",
+    "notes": "SRM Andhra Pradesh campus; admissions via SRMJEEE."
+  },
+  {
+    "id": "SRM-AP",
+    "name": "SRM University, Andhra Pradesh",
+    "category": "PRIVATE",
+    "state": "Andhra Pradesh",
+    "city": "Amaravati",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 100000,
+    "mgmt": true,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://srmap.edu.in/admissions/",
+    "notes": "Admissions via SRMJEEE; institute counselling. Management quota available."
+  },
+  {
+    "id": "VIT-AP",
+    "name": "VIT AP Amaravati",
+    "category": "PRIVATE",
+    "state": "Andhra Pradesh",
+    "city": "Amaravati",
+    "accepted": [
+      "VITEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 198000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://vitap.ac.in/",
+    "notes": "VIT Andhra Pradesh campus; admissions via VITEEE."
+  },
+  {
+    "id": "VIGNAN-GUN",
+    "name": "Vignan University",
+    "category": "PRIVATE",
+    "state": "Andhra Pradesh",
+    "city": "Guntur",
+    "accepted": [
+      "AP-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 285000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.vignanuniversity.org/",
+    "notes": "Private university; admissions via AP-EAMCET."
+  },
+  {
+    "id": "NIT-AND",
+    "name": "NIT Andhra Pradesh",
+    "category": "NIT",
+    "state": "Andhra Pradesh",
+    "city": "Tadepalligudem",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitandhra.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-TIR",
+    "name": "IIT Tirupati",
+    "category": "IIT",
+    "state": "Andhra Pradesh",
+    "city": "Tirupati",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 61,
+    "site": "https://iittp.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "KL-VJY",
+    "name": "Koneru Lakshmaiah Education Foundation",
+    "category": "DEEMED",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "accepted": [],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 230000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 35,
+    "site": "https://www.kluniversity.in/",
+    "notes": "Leading university in Andhra Pradesh, own entrance."
+  },
+  {
+    "id": "KL-VIJ",
+    "name": "Koneru Lakshmaiah University",
+    "category": "DEEMED",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "accepted": [
+      "AP-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.kluniversity.in/",
+    "notes": "Deemed university; admissions via AP-EAMCET."
+  },
+  {
+    "id": "GITAM-VIS",
+    "name": "GITAM University",
+    "category": "DEEMED",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "accepted": [],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 120000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.gitam.edu/",
+    "notes": "Multi-campus deemed university, GAT entrance."
+  },
+  {
+    "id": "GITAM-VIZ",
+    "name": "GITAM University Visakhapatnam",
+    "category": "DEEMED",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "accepted": [
+      "AP-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 325000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 101,
+    "site": "https://www.gitam.edu/",
+    "notes": "Deemed university; admissions via AP-EAMCET."
+  },
+  {
+    "id": "NIT-ARP",
+    "name": "NIT Arunachal Pradesh",
+    "category": "NIT",
+    "state": "Arunachal Pradesh",
+    "city": "Yupia",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitap.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-GUW",
+    "name": "IIT Guwahati",
+    "category": "IIT",
+    "state": "Assam",
+    "city": "Guwahati",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 7,
+    "site": "https://www.iitg.ac.in/",
+    "notes": "Leading IIT in Northeast, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-SIL",
+    "name": "NIT Silchar",
+    "category": "NIT",
+    "state": "Assam",
+    "city": "Silchar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 40,
+    "site": "https://www.nits.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-PAT",
+    "name": "IIT Patna",
+    "category": "IIT",
+    "state": "Bihar",
+    "city": "Patna",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 34,
+    "site": "https://www.iitp.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "NIT-PAT",
+    "name": "NIT Patna",
+    "category": "NIT",
+    "state": "Bihar",
+    "city": "Patna",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 69,
+    "site": "https://www.nitp.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-BHI",
+    "name": "IIT Bhilai",
+    "category": "IIT",
+    "state": "Chhattisgarh",
+    "city": "Bhilai",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 73,
+    "site": "https://www.iitbhilai.ac.in/",
+    "notes": "New IIT established in 2016, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-RAI",
+    "name": "NIT Raipur",
+    "category": "NIT",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.nitrr.ac.in/",
+    "notes": "Central India NIT, admission via JEE Main."
+  },
+  {
+    "id": "DTU-DEL",
+    "name": "Delhi Technological University",
+    "category": "STATE-PRIVATE",
+    "state": "Delhi",
+    "city": "Delhi",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 39,
+    "site": "https://dtu.ac.in/Admissions/",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "NSUT-DEL",
+    "name": "Netaji Subhas University of Technology",
+    "category": "STATE-PRIVATE",
+    "state": "Delhi",
+    "city": "Delhi",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 40,
+    "site": "https://nsut.ac.in/en/admission",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "IIIT-DEL",
+    "name": "IIIT Delhi",
+    "category": "STATE-PRIVATE",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "accepted": [
+      "JAC Delhi"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 395000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 66,
+    "site": "https://www.iiitd.ac.in/",
+    "notes": "Premier research institute; admissions via JAC Delhi counselling."
+  },
+  {
+    "id": "IIT-DEL",
+    "name": "IIT Delhi",
+    "category": "IIT",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 2,
+    "site": "https://home.iitd.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "IGDTUW-DEL",
+    "name": "Indira Gandhi Delhi Technical University for Women",
+    "category": "STATE-PRIVATE",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "accepted": [
+      "JAC Delhi"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 185000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.igdtuw.ac.in/",
+    "notes": "Women's state university; admissions via JAC Delhi counselling."
+  },
+  {
+    "id": "NIT-DEL",
+    "name": "NIT Delhi",
+    "category": "NIT",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 45,
+    "site": "https://nitdelhi.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NSIT-DEL",
+    "name": "NSUT Delhi",
+    "category": "STATE-PRIVATE",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "accepted": [
+      "JAC Delhi"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.nsut.ac.in/",
+    "notes": "Premier technical university in Delhi, JAC Delhi."
+  },
+  {
+    "id": "BITS-GOA",
+    "name": "BITS Pilani Goa",
+    "category": "DEEMED",
+    "state": "Goa",
+    "city": "Goa",
+    "accepted": [
+      "BITSAT"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 475000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.bits-pilani.ac.in/goa/",
+    "notes": "BITS campus in Goa, BITSAT."
+  },
+  {
+    "id": "IIT-GOA",
+    "name": "IIT Goa",
+    "category": "IIT",
+    "state": "Goa",
+    "city": "Goa",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 250000,
+    "hostelYear": 35000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.iitgoa.ac.in/",
+    "notes": "New IIT established in 2016, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-GOA",
+    "name": "NIT Goa",
+    "category": "NIT",
+    "state": "Goa",
+    "city": "Goa",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitgoa.ac.in/",
+    "notes": "Coastal NIT, admission via JEE Main."
+  },
+  {
+    "id": "NIRMA-AHM",
+    "name": "Nirma University",
+    "category": "PRIVATE",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 395000,
+    "hostelYear": 145000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 81,
+    "site": "https://nirmauni.ac.in/",
+    "notes": "Private university; admissions based on JEE Main or board scores."
+  },
+  {
+    "id": "DAIICT-GAN",
+    "name": "DA-IICT Gandhinagar",
+    "category": "DEEMED",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 80,
+    "minJEE": 85,
+    "feeYear": 225000,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.daiict.ac.in/",
+    "notes": "Deemed university by DAIICT; admissions based on JEE Main."
+  },
+  {
+    "id": "DA-IICT",
+    "name": "Dhirubhai Ambani Institute of Information and Communication Technology",
+    "category": "PRIVATE",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 275000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 42,
+    "site": "https://www.daiict.ac.in/admissions",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "IIT-GAN",
+    "name": "IIT Gandhinagar",
+    "category": "IIT",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 18,
+    "site": "https://iitgn.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "PDPU-GAN",
+    "name": "Pandit Deendayal Energy University",
+    "category": "STATE-PRIVATE",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 185000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.pdpu.ac.in/",
+    "notes": "State private university; admissions based on JEE Main."
+  },
+  {
+    "id": "SVNIT-SUR",
+    "name": "NIT Surat",
+    "category": "NIT",
+    "state": "Gujarat",
+    "city": "Surat",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.svnit.ac.in/",
+    "notes": "Diamond city NIT, admission via JEE Main."
+  },
+  {
+    "id": "PDM-DEL",
+    "name": "PDM University",
+    "category": "PRIVATE",
+    "state": "Haryana",
+    "city": "Bahadurgarh",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 150000,
+    "hostelYear": 80000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://pdm.ac.in/engineering-admission/",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "AMITY-GUR",
+    "name": "Amity University Gurugram",
+    "category": "PRIVATE",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "accepted": [
+      "Amity JEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 425000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.amity.edu/gurugram/",
+    "notes": "Amity Gurugram campus; admissions via Amity JEE."
+  },
+  {
+    "id": "NIT-KUR",
+    "name": "NIT Kurukshetra",
+    "category": "NIT",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 17,
+    "site": "https://www.nitkkr.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NIT-HAM",
+    "name": "NIT Hamirpur",
+    "category": "NIT",
+    "state": "Himachal Pradesh",
+    "city": "Hamirpur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 100,
+    "site": "https://nith.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-MAN",
+    "name": "IIT Mandi",
+    "category": "IIT",
+    "state": "Himachal Pradesh",
+    "city": "Mandi",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 31,
+    "site": "https://www.iitmandi.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "JUIT-SOL",
+    "name": "Jaypee University of Information Technology",
+    "category": "PRIVATE",
+    "state": "Himachal Pradesh",
+    "city": "Solan",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 425000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.juit.ac.in/",
+    "notes": "Private university by Jaypee Group; admissions based on JEE Main."
+  },
+  {
+    "id": "BITS-DUB",
+    "name": "BITS Dubai",
+    "category": "DEEMED",
+    "state": "International",
+    "city": "Dubai",
+    "accepted": [
+      "BITSAT"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 484200,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.bits-pilani.ac.in/dubai/",
+    "notes": "BITS Dubai campus; admissions via BITSAT."
+  },
+  {
+    "id": "IIT-JAM",
+    "name": "IIT Jammu",
+    "category": "IIT",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 62,
+    "site": "https://www.iitjammu.ac.in/",
+    "notes": "New IIT established in 2016, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-SRI",
+    "name": "NIT Srinagar",
+    "category": "NIT",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.nitsri.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-ISM",
+    "name": "IIT Dhanbad",
+    "category": "IIT",
+    "state": "Jharkhand",
+    "city": "Dhanbad",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 250000,
+    "hostelYear": 35000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 15,
+    "site": "https://www.iitism.ac.in/",
+    "notes": "Mining specialization IIT, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-JSR",
+    "name": "NIT Jamshedpur",
+    "category": "NIT",
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.nitjsr.ac.in/",
+    "notes": "Steel city NIT, admission via JEE Main."
+  },
+  {
+    "id": "BIT-RAN",
+    "name": "Birla Institute of Technology Ranchi",
+    "category": "DEEMED",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "accepted": [],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 285000,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 48,
+    "site": "https://www.bitmesra.ac.in/",
+    "notes": "Established technical institute, own entrance."
+  },
+  {
+    "id": "BIT-MESRA",
+    "name": "Birla Institute of Technology, Mesra",
+    "category": "DEEMED",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 375000,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 34,
+    "site": "https://www.bitmesra.ac.in/",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "ALLIANCE-BAN",
+    "name": "Alliance University",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "COMEDK"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 395000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.alliance.edu.in/",
+    "notes": "Private university; admissions via COMEDK or board scores."
+  },
+  {
+    "id": "BMSCE",
+    "name": "BMS College of Engineering",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "KCET",
+      "COMEDK"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 255000,
+    "hostelYear": 105000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 68,
+    "site": "https://bmsce.ac.in/admissions",
+    "notes": "Admissions via KCET or COMEDK; state/institute counselling."
+  },
+  {
+    "id": "GITAM-BAN",
+    "name": "GITAM University Bangalore",
+    "category": "DEEMED",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "COMEDK"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 325000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.gitam.edu/bangalore-campus",
+    "notes": "GITAM Bangalore campus; admissions via COMEDK."
+  },
+  {
+    "id": "IIIT-BAN",
+    "name": "IIIT Bangalore",
+    "category": "STATE-PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 90,
+    "feeYear": 395000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 68,
+    "site": "https://www.iiitb.ac.in/",
+    "notes": "Premier research institute; highly selective admissions based on JEE Main."
+  },
+  {
+    "id": "IIIT-BLR",
+    "name": "International Institute of Information Technology, Bangalore",
+    "category": "DEEMED",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 80,
+    "minJEE": 0,
+    "feeYear": 275000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 56,
+    "site": "https://www.iiitb.ac.in/admissions",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "MSRIT-BAN",
+    "name": "MS Ramaiah Institute of Technology",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "KCET",
+      "COMEDK"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 305000,
+    "hostelYear": 117500,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 46,
+    "site": "https://www.msrit.edu/",
+    "notes": "Admissions via KCET or COMEDK; state/institute counselling."
+  },
+  {
+    "id": "PESU",
+    "name": "PES University",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "KCET",
+      "PESSAT"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 417500,
+    "hostelYear": 145000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 55,
+    "site": "https://pes.edu/admissions/",
+    "notes": "Admissions via PESSAT or KCET; institute/state counselling."
+  },
+  {
+    "id": "RVCE",
+    "name": "RV College of Engineering",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "accepted": [
+      "KCET",
+      "COMEDK"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 285000,
+    "hostelYear": 110000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 38,
+    "site": "https://www.rvce.edu.in/",
+    "notes": "Admissions via KCET or COMEDK; state/institute counselling."
+  },
+  {
+    "id": "BMS-BLR",
+    "name": "BMS College of Engineering",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [
+      "KCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 145000,
+    "hostelYear": 70000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.bmsce.ac.in/",
+    "notes": "Established engineering college, KCET entrance."
+  },
+  {
+    "id": "CHRIST-BLR",
+    "name": "CHRIST University",
+    "category": "DEEMED",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 285000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://christuniversity.in/",
+    "notes": "Holistic education university, CUET entrance."
+  },
+  {
+    "id": "DSCE-BLR",
+    "name": "Dayananda Sagar College of Engineering",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [
+      "KCET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.dayanandasagar.edu/",
+    "notes": "Growing engineering college, KCET entrance."
+  },
+  {
+    "id": "MSRIT-BLR",
+    "name": "MS Ramaiah Institute of Technology",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [
+      "KCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 165000,
+    "hostelYear": 80000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.msrit.edu/",
+    "notes": "Well-known engineering institute, KCET entrance."
+  },
+  {
+    "id": "PES-BLR",
+    "name": "PES University",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [
+      "PESSAT"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 385000,
+    "hostelYear": 140000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.pes.edu/",
+    "notes": "IT hub university, admission via PESSAT."
+  },
+  {
+    "id": "RV-BLR",
+    "name": "RV College of Engineering",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "accepted": [
+      "KCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.rvce.edu.in/",
+    "notes": "Top private college in Bangalore, KCET entrance."
+  },
+  {
+    "id": "IIT-DHA",
+    "name": "IIT Dharwad",
+    "category": "IIT",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.iitdh.ac.in/",
+    "notes": "New IIT established in 2016, admission via JEE Advanced."
+  },
+  {
+    "id": "KLE-TEC",
+    "name": "KLE Technological University",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Hubballi",
+    "accepted": [
+      "KCET",
+      "COMEDK"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 325000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 101,
+    "site": "https://www.kletech.ac.in/admissions/",
+    "notes": "Admissions via KCET or COMEDK; state/institute counselling."
+  },
+  {
+    "id": "NIT-SUR",
+    "name": "National Institute of Technology Surathkal",
+    "category": "NIT",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 62000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 11,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "MANIPAL",
+    "name": "Manipal Institute of Technology",
+    "category": "DEEMED",
+    "state": "Karnataka",
+    "city": "Manipal",
+    "accepted": [
+      "MET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 372000,
+    "hostelYear": 145000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 35,
+    "site": "https://manipal.edu/mit/admission/ug-admission.html",
+    "notes": "Leading medical and engineering university, MET entrance."
+  },
+  {
+    "id": "JSS-MYS",
+    "name": "JSS Science and Technology University",
+    "category": "DEEMED",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "accepted": [
+      "KCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://jssstuniv.in/",
+    "notes": "Multi-disciplinary deemed university, KCET."
+  },
+  {
+    "id": "SITEEE-SIT",
+    "name": "SIT Tumakuru",
+    "category": "PRIVATE",
+    "state": "Karnataka",
+    "city": "Tumakuru",
+    "accepted": [
+      "SITEEE"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 145000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://sit.ac.in/",
+    "notes": "Growing engineering institute, SITEEE entrance."
+  },
+  {
+    "id": "NIT-CAL",
+    "name": "National Institute of Technology Calicut",
+    "category": "NIT",
+    "state": "Kerala",
+    "city": "Calicut",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 58000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 18,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "CUSAT-COC",
+    "name": "CUSAT Cochin",
+    "category": "STATE-PRIVATE",
+    "state": "Kerala",
+    "city": "Kochi",
+    "accepted": [],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 45000,
+    "hostelYear": 35000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.cusat.ac.in/",
+    "notes": "Premier technical university in Kerala, KEAM."
+  },
+  {
+    "id": "IIT-PAL",
+    "name": "IIT Palakkad",
+    "category": "IIT",
+    "state": "Kerala",
+    "city": "Palakkad",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 64,
+    "site": "https://iitpkd.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "CET-TVM",
+    "name": "College of Engineering Trivandrum",
+    "category": "STATE-PRIVATE",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "accepted": [],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 35000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.cet.ac.in/",
+    "notes": "Oldest engineering college in Kerala, KEAM."
+  },
+  {
+    "id": "NIT-BHO",
+    "name": "NIT Bhopal",
+    "category": "NIT",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 65,
+    "site": "https://www.manit.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "VIT-BHO",
+    "name": "VIT Bhopal",
+    "category": "DEEMED",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "accepted": [
+      "VITEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 186500,
+    "hostelYear": 147500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://vitbhopal.ac.in/",
+    "notes": "VIT Bhopal campus; admissions via VITEEE."
+  },
+  {
+    "id": "JUIT-GUN",
+    "name": "Jaypee University of Engineering and Technology",
+    "category": "PRIVATE",
+    "state": "Madhya Pradesh",
+    "city": "Guna",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 425000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.juet.ac.in/",
+    "notes": "Private university by Jaypee Group; admissions based on JEE Main."
+  },
+  {
+    "id": "IIT-IND",
+    "name": "IIT Indore",
+    "category": "IIT",
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 15,
+    "site": "https://www.iiti.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "IIIT-JAB",
+    "name": "IIIT Jabalpur",
+    "category": "STATE-PRIVATE",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 80,
+    "feeYear": 395000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.iiitdmj.ac.in/",
+    "notes": "Research institute; admissions based on JEE Main."
+  },
+  {
+    "id": "IIITDM-JAB",
+    "name": "IIITDM Jabalpur",
+    "category": "STATE-PRIVATE",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 80,
+    "feeYear": 395000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.iiitdmj.ac.in/",
+    "notes": "Design and manufacturing institute; admissions based on JEE Main."
+  },
+  {
+    "id": "DJ-SANGHVI",
+    "name": "Dwarkadas J. Sanghvi College of Engineering",
+    "category": "PRIVATE",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 110000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 101,
+    "site": "https://www.djsce.ac.in/",
+    "notes": "Admissions via MHT-CET or JEE Main; state/institute counselling."
+  },
+  {
+    "id": "IIT-BOM",
+    "name": "IIT Bombay",
+    "category": "IIT",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 3,
+    "site": "https://www.iitb.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "IIT-KHA",
+    "name": "IIT Kharagpur Mumbai",
+    "category": "IIT",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.iitkgp.ac.in/",
+    "notes": "IIT Mumbai campus; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "ICT-MUM",
+    "name": "Institute of Chemical Technology",
+    "category": "DEEMED",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "JEE Main",
+      "MHT-CET"
+    ],
+    "minBoard": 60,
+    "minJEE": 85,
+    "feeYear": 202500,
+    "hostelYear": 115000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 39,
+    "site": "https://www.ictmumbai.edu.in/",
+    "notes": "Deemed university specializing in chemical technology; admissions via MHT-CET."
+  },
+  {
+    "id": "KJ-SOMAIYA",
+    "name": "K J Somaiya Institute of Technology",
+    "category": "PRIVATE",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 235000,
+    "hostelYear": 120000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 101,
+    "site": "https://kjsit.somaiya.edu.in/en",
+    "notes": "Admissions via MHT-CET or JEE Main; state/institute counselling."
+  },
+  {
+    "id": "VJTI",
+    "name": "Veermata Jijabai Technological Institute",
+    "category": "STATE-PRIVATE",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 150000,
+    "hostelYear": 77500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 48,
+    "site": "https://vjti.ac.in/",
+    "notes": "Admissions via MHT-CET or JEE Main; state counselling."
+  },
+  {
+    "id": "VJTI-MUM",
+    "name": "VJTI Mumbai",
+    "category": "STATE-PRIVATE",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "accepted": [
+      "MHT-CET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 95000,
+    "hostelYear": 55000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://vjti.ac.in/",
+    "notes": "Premier technical institute, MHT-CET entrance."
+  },
+  {
+    "id": "NIT-NAG",
+    "name": "NIT Nagpur",
+    "category": "NIT",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 39,
+    "site": "https://www.vnit.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "COEP",
+    "name": "College of Engineering, Pune",
+    "category": "STATE-PRIVATE",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 51,
+    "site": "https://www.coep.org.in/",
+    "notes": "Admissions via MHT-CET or JEE Main; state counselling."
+  },
+  {
+    "id": "FLAME-PUN",
+    "name": "FLAME University",
+    "category": "PRIVATE",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 485000,
+    "hostelYear": 195000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.flame.edu.in/",
+    "notes": "Liberal arts university with engineering; admissions based on JEE Main."
+  },
+  {
+    "id": "MIT-PUN",
+    "name": "MIT World Peace University",
+    "category": "PRIVATE",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 355000,
+    "hostelYear": 150000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 101,
+    "site": "https://mitwpu.edu.in/engineering-admissions",
+    "notes": "Admissions via MHT-CET or JEE Main; state/institute counselling."
+  },
+  {
+    "id": "PICT-PUN",
+    "name": "Pune Institute of Computer Technology",
+    "category": "PRIVATE",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "MHT-CET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 165000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://pict.edu/",
+    "notes": "Top autonomous college; admissions via MHT-CET."
+  },
+  {
+    "id": "SYMBIOSIS-PUN",
+    "name": "Symbiosis Institute of Technology",
+    "category": "DEEMED",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "SITEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 395000,
+    "hostelYear": 145000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.sitpune.edu.in/",
+    "notes": "Part of Symbiosis International University; admissions via SITEEE."
+  },
+  {
+    "id": "SIT-PUN",
+    "name": "Symbiosis Institute of Technology, Pune",
+    "category": "DEEMED",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "accepted": [
+      "JEE Main",
+      "SITEEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 425000,
+    "hostelYear": 145000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 45,
+    "site": "https://www.sitpune.edu.in/admissions/",
+    "notes": "Admissions via SITEEE or JEE Main; institute counselling."
+  },
+  {
+    "id": "NIT-IMP",
+    "name": "NIT Manipur",
+    "category": "NIT",
+    "state": "Manipur",
+    "city": "Imphal",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitmanipur.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NIT-MEG",
+    "name": "NIT Meghalaya",
+    "category": "NIT",
+    "state": "Meghalaya",
+    "city": "Shillong",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitm.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NIT-AIZ",
+    "name": "NIT Mizoram",
+    "category": "NIT",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitmz.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NIT-DIM",
+    "name": "NIT Nagaland",
+    "category": "NIT",
+    "state": "Nagaland",
+    "city": "Dimapur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://nitnagaland.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "C-V-RAMAN",
+    "name": "C.V. Raman Global University",
+    "category": "PRIVATE",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "accepted": [
+      "JEE Main",
+      "OJEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 135000,
+    "hostelYear": 60000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://cgu-odisha.ac.in/",
+    "notes": "Admissions via JEE Main or OJEE; institute/state counselling."
+  },
+  {
+    "id": "IIT-BBS",
+    "name": "IIT Bhubaneswar",
+    "category": "IIT",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 26,
+    "site": "https://www.iitbbs.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "KIIT-BBS",
+    "name": "Kalinga Institute of Industrial Technology",
+    "category": "DEEMED",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "accepted": [
+      "KIITEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 410000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 28,
+    "site": "https://kiit.ac.in/admissions/",
+    "notes": "Admissions via KIITEE; institute counselling."
+  },
+  {
+    "id": "SIERRA",
+    "name": "Siksha 'O' Anusandhan",
+    "category": "DEEMED",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "accepted": [
+      "JEE Main",
+      "OJEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 80,
+    "feeYear": 202500,
+    "hostelYear": 77500,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 26,
+    "site": "https://www.soa.ac.in/",
+    "notes": "Admissions via JEE Main or OJEE; institute/state counselling."
+  },
+  {
+    "id": "NIT-ROU",
+    "name": "National Institute of Technology Rourkela",
+    "category": "NIT",
+    "state": "Odisha",
+    "city": "Rourkela",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 56000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 15,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "NIT-KAR",
+    "name": "NIT Puducherry",
+    "category": "NIT",
+    "state": "Puducherry",
+    "city": "Karaikal",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://nitpy.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "CU-CHD",
+    "name": "Chandigarh University",
+    "category": "PRIVATE",
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "accepted": [
+      "CUCET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 160000,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 32,
+    "site": "https://www.cuchd.in/",
+    "notes": "Multi-disciplinary university, admission via CUCET."
+  },
+  {
+    "id": "LPU-JAL",
+    "name": "Lovely Professional University",
+    "category": "PRIVATE",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "accepted": [
+      "LPUNEST"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 200000,
+    "hostelYear": 90000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 50,
+    "site": "https://www.lpu.in/",
+    "notes": "Large multi-disciplinary university, own entrance."
+  },
+  {
+    "id": "NIT-JAL",
+    "name": "NIT Jalandhar",
+    "category": "NIT",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 52,
+    "site": "https://www.nitj.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "THAPAR",
+    "name": "Thapar Institute of Engineering and Technology",
+    "category": "DEEMED",
+    "state": "Punjab",
+    "city": "Patiala",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 75,
+    "feeYear": 385000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 27,
+    "site": "https://admissions.thapar.edu/",
+    "notes": "Admissions via JEE Main or Class XII marks; institute counselling. Management quota available."
+  },
+  {
+    "id": "CHIT-CHN",
+    "name": "Chitkara University",
+    "category": "PRIVATE",
+    "state": "Punjab",
+    "city": "Rajpura",
+    "accepted": [
+      "JEE Main",
+      "CUCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 275000,
+    "hostelYear": 112500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 101,
+    "site": "https://www.chitkara.edu.in/engineering-admissions/",
+    "notes": "Private university; admissions based on JEE Main or board scores."
+  },
+  {
+    "id": "IIT-ROP",
+    "name": "IIT Ropar",
+    "category": "IIT",
+    "state": "Punjab",
+    "city": "Ropar",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 250000,
+    "hostelYear": 35000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 22,
+    "site": "https://www.iitrpr.ac.in/",
+    "notes": "Third generation IIT, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-JAI",
+    "name": "NIT Jaipur",
+    "category": "NIT",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 43,
+    "site": "https://www.mnit.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIT-JOD",
+    "name": "IIT Jodhpur",
+    "category": "IIT",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 28,
+    "site": "https://www.iitj.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "BITS-PIL",
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "category": "DEEMED",
+    "state": "Rajasthan",
+    "city": "Pilani",
+    "accepted": [
+      "BITSAT"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 550000,
+    "hostelYear": 105000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 21,
+    "site": "https://www.bitsadmission.com/",
+    "notes": "Admissions via BITSAT; institute counselling."
+  },
+  {
+    "id": "NIT-SIK",
+    "name": "NIT Sikkim",
+    "category": "NIT",
+    "state": "Sikkim",
+    "city": "Ravangla",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 185000,
+    "hostelYear": 70000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nitsikkim.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "ANNA-CHN",
+    "name": "Anna University",
+    "category": "STATE-PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 82500,
+    "hostelYear": 45000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 14,
+    "site": "https://www.annauniv.edu/",
+    "notes": "Premier state university; admissions based on JEE Main and board scores."
+  },
+  {
+    "id": "CEG-CHN",
+    "name": "College of Engineering Guindy",
+    "category": "STATE-PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 25000,
+    "hostelYear": 15000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.ceg.annauniv.edu/",
+    "notes": "Oldest technical institute in India, TNEA."
+  },
+  {
+    "id": "HINDUSTAN",
+    "name": "Hindustan Institute of Technology and Science",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 250000,
+    "hostelYear": 95000,
+    "mgmt": true,
+    "naac": "A",
+    "nirf": 101,
+    "site": "https://www.hindustanuniv.ac.in/admissions/",
+    "notes": "Admissions via JEE Main; institute counselling. Management quota available."
+  },
+  {
+    "id": "IIITDM-KAN",
+    "name": "IIITDM Kancheepuram",
+    "category": "STATE-PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 85,
+    "feeYear": 395000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 77,
+    "site": "https://www.iiitdm.ac.in/",
+    "notes": "Design and manufacturing institute; admissions based on JEE Main."
+  },
+  {
+    "id": "IIT-MAD",
+    "name": "IIT Madras",
+    "category": "IIT",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 1,
+    "site": "https://www.iitm.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "MIT-CHN",
+    "name": "Madras Institute of Technology",
+    "category": "STATE-PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 30000,
+    "hostelYear": 18000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.mitindia.edu/",
+    "notes": "Government technical institute, TNEA."
+  },
+  {
+    "id": "SRM-KTR",
+    "name": "SRM Institute of Science and Technology, Kattankulathur",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 120000,
+    "mgmt": true,
+    "naac": "A++",
+    "nirf": 19,
+    "site": "https://www.srmist.edu.in/admission-india/",
+    "notes": "Admissions via SRMJEEE; institute counselling. Management quota available."
+  },
+  {
+    "id": "SRM-RMP",
+    "name": "SRM Institute of Science and Technology, Ramapuram",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 120000,
+    "mgmt": true,
+    "naac": "A++",
+    "nirf": 19,
+    "site": "https://www.srmist.edu.in/admission-india/",
+    "notes": "Admissions via SRMJEEE; institute counselling. Management quota available."
+  },
+  {
+    "id": "SRM-VAD",
+    "name": "SRM IST Vadapalani",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.srmist.edu.in/vadapalani/",
+    "notes": "SRM Vadapalani campus; admissions via SRMJEEE."
+  },
+  {
+    "id": "SSN-CHN",
+    "name": "SSN College of Engineering",
+    "category": "PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 235000,
+    "hostelYear": 110000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 46,
+    "site": "https://www.ssn.edu.in/",
+    "notes": "Autonomous private college; admissions based on JEE Main."
+  },
+  {
+    "id": "VEL-TECH",
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+    "category": "PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 200000,
+    "hostelYear": 70000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 101,
+    "site": "https://veltech.edu.in/admissions/",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "VIT-CHN",
+    "name": "VIT Chennai",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "accepted": [
+      "VITEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 196500,
+    "hostelYear": 157500,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 11,
+    "site": "https://chennai.vit.ac.in/",
+    "notes": "VIT Chennai campus; admissions via VITEEE."
+  },
+  {
+    "id": "AMRITA",
+    "name": "Amrita Vishwa Vidyapeetham",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 85,
+    "feeYear": 292500,
+    "hostelYear": 95000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 22,
+    "site": "https://www.amrita.edu/admissions/engineering",
+    "notes": "Admissions via Amrita AEEE or JEE Main; institute counselling."
+  },
+  {
+    "id": "KARUNYA-COI",
+    "name": "Karunya Institute of Technology and Sciences",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.karunya.edu/",
+    "notes": "Deemed university; admissions based on JEE Main."
+  },
+  {
+    "id": "PSG-COI",
+    "name": "PSG College of Technology",
+    "category": "PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 190000,
+    "hostelYear": 90000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 80,
+    "site": "https://www.psgtech.edu/",
+    "notes": "Autonomous private college; admissions based on JEE Main."
+  },
+  {
+    "id": "THIAGARAJAR-MAD",
+    "name": "Thiagarajar College of Engineering",
+    "category": "PRIVATE",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 70000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 82,
+    "site": "https://www.tce.edu/",
+    "notes": "Autonomous private college; admissions based on JEE Main."
+  },
+  {
+    "id": "KALA-SRI",
+    "name": "Kalasalingam Academy",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Srivilliputhur",
+    "accepted": [],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 185000,
+    "hostelYear": 75000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 36,
+    "site": "https://www.klu.ac.in/",
+    "notes": "Rural-based engineering university, own entrance."
+  },
+  {
+    "id": "SASTRA",
+    "name": "SASTRA Deemed University",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 75,
+    "feeYear": 225000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 33,
+    "site": "https://www.sastra.edu/admissions/",
+    "notes": "Admissions via JEE Main or Class XII marks; institute counselling."
+  },
+  {
+    "id": "NIT-TRI",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "category": "NIT",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 10,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "SRM-TRI",
+    "name": "SRM IST Trichy",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 350000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.srmtrichy.edu.in/",
+    "notes": "SRM Trichy campus; admissions via SRMJEEE."
+  },
+  {
+    "id": "VIT-VEL",
+    "name": "Vellore Institute of Technology",
+    "category": "DEEMED",
+    "state": "Tamil Nadu",
+    "city": "Vellore",
+    "accepted": [
+      "VITEEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 215000,
+    "hostelYear": 80000,
+    "mgmt": true,
+    "naac": "A++",
+    "nirf": 12,
+    "site": "https://vit.ac.in/admissions/ug",
+    "notes": "Admissions via VITEEE; institute counselling. Management quota available."
+  },
+  {
+    "id": "BITS-HYD",
+    "name": "BITS Hyderabad",
+    "category": "DEEMED",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "BITSAT"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 484200,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 25,
+    "site": "https://www.bits-pilani.ac.in/hyderabad/",
+    "notes": "BITS Hyderabad campus; admissions via BITSAT."
+  },
+  {
+    "id": "GCET-HYD",
+    "name": "CBIT Hyderabad",
+    "category": "PRIVATE",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 165000,
+    "hostelYear": 85000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.cbit.ac.in/",
+    "notes": "Leading private college in Hyderabad, TS-EAMCET."
+  },
+  {
+    "id": "CBIT-HYD",
+    "name": "Chaitanya Bharathi Institute of Technology",
+    "category": "PRIVATE",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://www.cbit.ac.in/",
+    "notes": "Autonomous private college; admissions via TS-EAMCET."
+  },
+  {
+    "id": "GITAM-HYD",
+    "name": "GITAM University Hyderabad",
+    "category": "DEEMED",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 325000,
+    "hostelYear": 125000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 0,
+    "site": "https://www.gitam.edu/hyderabad-campus",
+    "notes": "GITAM Hyderabad campus; admissions via TS-EAMCET."
+  },
+  {
+    "id": "IIIT-HYD",
+    "name": "IIIT Hyderabad",
+    "category": "DEEMED",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 95,
+    "feeYear": 450000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 64,
+    "site": "https://www.iiit.ac.in/",
+    "notes": "Premier research institute; highly selective admissions based on JEE Main."
+  },
+  {
+    "id": "IIT-HYD",
+    "name": "IIT Hyderabad",
+    "category": "IIT",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 8,
+    "site": "https://iith.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "JNTUH-HYD",
+    "name": "JNTU Hyderabad",
+    "category": "STATE-PRIVATE",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://jntuh.ac.in/",
+    "notes": "State technological university; admissions via TS-EAMCET."
+  },
+  {
+    "id": "MGIT-HYD",
+    "name": "MGIT Hyderabad",
+    "category": "PRIVATE",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.mgit.ac.in/",
+    "notes": "Established engineering college, TS-EAMCET."
+  },
+  {
+    "id": "OSMANIA-HYD",
+    "name": "Osmania University College of Engineering",
+    "category": "STATE-PRIVATE",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "accepted": [
+      "TS-EAMCET"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 65000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 83,
+    "site": "https://osmania.ac.in/",
+    "notes": "Premier state university college; admissions via TS-EAMCET."
+  },
+  {
+    "id": "NIT-WAR",
+    "name": "National Institute of Technology Warangal",
+    "category": "NIT",
+    "state": "Telangana",
+    "city": "Warangal",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 60000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 16,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "NIT-AGR",
+    "name": "NIT Agartala",
+    "category": "NIT",
+    "state": "Tripura",
+    "city": "Agartala",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.nita.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "SRM-GZB",
+    "name": "SRM University Delhi NCR",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "accepted": [
+      "SRMJEEE"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 115000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://srmuniversity.ac.in/",
+    "notes": "SRM campus in Delhi NCR, SRMJEEE."
+  },
+  {
+    "id": "BENNETT-GRE",
+    "name": "Bennett University",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 385000,
+    "hostelYear": 185000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://www.bennett.edu.in/",
+    "notes": "Private university by Times Group; admissions based on JEE Main."
+  },
+  {
+    "id": "GALGOTIAS",
+    "name": "Galgotias University",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 225000,
+    "hostelYear": 120000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 0,
+    "site": "https://galgotiasuniversity.edu.in/admissions/",
+    "notes": "Admissions via JEE Main; institute counselling."
+  },
+  {
+    "id": "SNU-GGN",
+    "name": "Shiv Nadar University",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 480000,
+    "hostelYear": 187500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 49,
+    "site": "https://snu.edu.in/",
+    "notes": "Premium private university; admissions based on JEE Main and board scores."
+  },
+  {
+    "id": "IIT-KAN",
+    "name": "IIT Kanpur",
+    "category": "IIT",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 4,
+    "site": "https://www.iitk.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "G-L-AJ",
+    "name": "GLA University",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 50,
+    "minJEE": 70,
+    "feeYear": 170000,
+    "hostelYear": 82500,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 101,
+    "site": "https://www.gla.ac.in/",
+    "notes": "Emerging engineering university, JEE Main accepted."
+  },
+  {
+    "id": "AMITY-NOI",
+    "name": "Amity University, Noida",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "accepted": [
+      "Amity JEE",
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 385000,
+    "hostelYear": 155000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 30,
+    "site": "https://www.amity.edu/admission/",
+    "notes": "Admissions via Amity JEE or JEE Main; institute counselling."
+  },
+  {
+    "id": "JIIT-NOI",
+    "name": "Jaypee Institute of Information Technology",
+    "category": "PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 60,
+    "minJEE": 75,
+    "feeYear": 350000,
+    "hostelYear": 150000,
+    "mgmt": false,
+    "naac": "A+",
+    "nirf": 52,
+    "site": "https://www.jiit.ac.in/admissions",
+    "notes": "Deemed university by Jaypee Group; admissions based on JEE Main."
+  },
+  {
+    "id": "IIIT-ALL",
+    "name": "IIIT Allahabad",
+    "category": "STATE-PRIVATE",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 85,
+    "feeYear": 395000,
+    "hostelYear": 165000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 103,
+    "site": "https://www.iiita.ac.in/",
+    "notes": "Premier research institute; admissions based on JEE Main."
+  },
+  {
+    "id": "MNNIT-ALL",
+    "name": "Motilal Nehru National Institute of Technology Allahabad",
+    "category": "NIT",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 60000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 17,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "NIT-ALL",
+    "name": "National Institute of Technology Allahabad",
+    "category": "NIT",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 175000,
+    "hostelYear": 60000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 17,
+    "site": "https://josaa.nic.in/",
+    "notes": "Admissions via JEE Main; JoSAA/CSAB counselling."
+  },
+  {
+    "id": "IIT-BHU",
+    "name": "IIT BHU Varanasi",
+    "category": "IIT",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 10,
+    "site": "https://www.iitbhu.ac.in/",
+    "notes": "Premier IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "UPES-DEH",
+    "name": "University of Petroleum and Energy Studies",
+    "category": "PRIVATE",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "accepted": [
+      "JEE Main",
+      "UPESEAT"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 365000,
+    "hostelYear": 155000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 61,
+    "site": "https://www.upes.ac.in/admissions/engineering",
+    "notes": "Specialized in petroleum and energy studies; admissions via UPESEAT."
+  },
+  {
+    "id": "UPES-DDN",
+    "name": "UPES Dehradun",
+    "category": "PRIVATE",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "accepted": [
+      "UPESEAT"
+    ],
+    "minBoard": 50,
+    "minJEE": 0,
+    "feeYear": 295000,
+    "hostelYear": 120000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 42,
+    "site": "https://www.upes.ac.in/",
+    "notes": "Specialized in energy and petroleum, own entrance."
+  },
+  {
+    "id": "NIT-GAR",
+    "name": "NIT Uttarakhand",
+    "category": "NIT",
+    "state": "Uttarakhand",
+    "city": "Garhwal",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://www.nituk.ac.in/",
+    "notes": "Mountain region NIT, admission via JEE Main."
+  },
+  {
+    "id": "IIT-ROO",
+    "name": "IIT Roorkee",
+    "category": "IIT",
+    "state": "Uttarakhand",
+    "city": "Roorkee",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 6,
+    "site": "https://www.iitr.ac.in/",
+    "notes": "Oldest technical institution of India, admission via JEE Advanced."
+  },
+  {
+    "id": "NIT-UTT",
+    "name": "NIT Uttarakhand",
+    "category": "NIT",
+    "state": "Uttarakhand",
+    "city": "Srinagar",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 185000,
+    "hostelYear": 70000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 0,
+    "site": "https://nituk.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "NIT-DUR",
+    "name": "NIT Durgapur",
+    "category": "NIT",
+    "state": "West Bengal",
+    "city": "Durgapur",
+    "accepted": [
+      "JEE Main"
+    ],
+    "minBoard": 75,
+    "minJEE": 0,
+    "feeYear": 155000,
+    "hostelYear": 47500,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 44,
+    "site": "https://www.nitdgp.ac.in/",
+    "notes": "Premier NIT; admissions via JoSAA counselling based on JEE Main."
+  },
+  {
+    "id": "IIEST-SHI",
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "category": "STATE-PRIVATE",
+    "state": "West Bengal",
+    "city": "Howrah",
+    "accepted": [
+      "WBJEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 75000,
+    "hostelYear": 25000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 44,
+    "site": "https://www.iiests.ac.in/",
+    "notes": "Admissions via WBJEE; state counselling."
+  },
+  {
+    "id": "KALYANI-KOL",
+    "name": "Kalyani Government Engineering College",
+    "category": "STATE-PRIVATE",
+    "state": "West Bengal",
+    "city": "Kalyani",
+    "accepted": [
+      "WBJEE"
+    ],
+    "minBoard": 60,
+    "minJEE": 0,
+    "feeYear": 125000,
+    "hostelYear": 55000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 0,
+    "site": "https://kgec.edu.in/",
+    "notes": "Government engineering college; admissions via WBJEE."
+  },
+  {
+    "id": "IIT-KGP",
+    "name": "IIT Kharagpur",
+    "category": "IIT",
+    "state": "West Bengal",
+    "city": "Kharagpur",
+    "accepted": [
+      "JEE Main",
+      "JEE Advanced"
+    ],
+    "minBoard": 0,
+    "minJEE": 0,
+    "feeYear": 237500,
+    "hostelYear": 50000,
+    "mgmt": false,
+    "naac": "",
+    "nirf": 5,
+    "site": "https://www.iitkgp.ac.in/",
+    "notes": "Oldest IIT; admissions via JEE Advanced counselling."
+  },
+  {
+    "id": "HIT-KOL",
+    "name": "Heritage Institute of Technology",
+    "category": "PRIVATE",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "accepted": [
+      "WBJEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 210000,
+    "hostelYear": 100000,
+    "mgmt": false,
+    "naac": "A",
+    "nirf": 101,
+    "site": "https://heritageit.edu/",
+    "notes": "Private engineering college; admissions via WBJEE."
+  },
+  {
+    "id": "JADAVPUR",
+    "name": "Jadavpur University",
+    "category": "STATE-PRIVATE",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "accepted": [
+      "WBJEE"
+    ],
+    "minBoard": 45,
+    "minJEE": 0,
+    "feeYear": 15000,
+    "hostelYear": 18000,
+    "mgmt": false,
+    "naac": "A++",
+    "nirf": 12,
+    "site": "https://www.jaduniv.edu.in/",
+    "notes": "Premier state university; admissions via WBJEE."
+  }
+]
