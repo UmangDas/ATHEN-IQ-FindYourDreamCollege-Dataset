@@ -1108,25 +1108,6 @@
     "notes": "Well-known engineering institute, KCET entrance."
   },
   {
-    "id": "PES-BLR",
-    "name": "PES University",
-    "category": "PRIVATE",
-    "state": "Karnataka",
-    "city": "Bengaluru",
-    "accepted": [
-      "PESSAT"
-    ],
-    "minBoard": 60,
-    "minJEE": 0,
-    "feeYear": 385000,
-    "hostelYear": 140000,
-    "mgmt": false,
-    "naac": "A+",
-    "nirf": 0,
-    "site": "https://www.pes.edu/",
-    "notes": "IT hub university, admission via PESSAT."
-  },
-  {
     "id": "RV-BLR",
     "name": "RV College of Engineering",
     "category": "PRIVATE",
